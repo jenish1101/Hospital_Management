@@ -1,0 +1,176 @@
+/* Main container */
+.query-container {
+    max-width: 800px;
+    margin: 150px auto;
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    height: 75vh;
+    overflow-y: scroll;
+}
+
+/* Heading */
+.query-container h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Individual question-answer box */
+.query-box {
+    background: #f8f9fa;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 5px solid gray;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Hover effect */
+.query-box:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Question styling */
+.query-box h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(105, 97, 97);
+    margin-bottom: 8px;
+}
+
+/* Answer styling */
+.query-box p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .query-container {
+        max-width: 95%;
+        padding: 15px;
+    }
+
+    .query-box {
+        padding: 12px;
+    }
+
+    .query-box h2 {
+        font-size: 16px;
+    }
+
+    .query-box p {
+        font-size: 14px;
+    }
+}
+
+
+
+
+/* new css  */
+
+/* Main container */
+.query-container {
+    max-width: 800px;
+    margin: 150px auto;
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    height: 75vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+    scrollbar-width: thin; /* For Firefox */
+    scrollbar-color: #007bff #f1f1f1;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Custom Scrollbar for Chrome, Edge, and Safari */
+.query-container::-webkit-scrollbar {
+    width: 10px;
+}
+
+.query-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.query-container::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #007bff, #00d4ff);
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+.query-container::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, #0056b3, #0094cc);
+}
+
+/* Smooth Scroll Effect */
+.query-container {
+    scroll-behavior: smooth;
+}
+
+/* Heading */
+.query-container h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Individual question-answer box */
+.query-box {
+    background: #f8f9fa;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 5px solid gray;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Hover effect */
+.query-box:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Question styling */
+.query-box h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(105, 97, 97);
+    margin-bottom: 8px;
+}
+
+/* Answer styling */
+.query-box p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .query-container {
+        max-width: 95%;
+        padding: 15px;
+    }
+
+    .query-box {
+        padding: 12px;
+    }
+
+    .query-box h2 {
+        font-size: 16px;
+    }
+
+    .query-box p {
+        font-size: 14px;
+    }
+}

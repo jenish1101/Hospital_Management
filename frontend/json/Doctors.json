@@ -1,0 +1,183 @@
+[
+    {
+      "id": "1",
+      "name": "Rahul",
+      "surname": "Sharma",
+      "age": 45,
+      "gender": "Male",
+      "specialty": "Cardiologist",
+      "image": "/Images/11.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Priya",
+      "surname": "Kapoor",
+      "age": 38,
+      "gender": "Female",
+      "specialty": "Neurologist",
+      "image": "/Images/1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Amit",
+      "surname": "Verma",
+      "age": 50,
+      "gender": "Male",
+      "specialty": "Orthopedic Surgeon",
+      "image": "/Images/12.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Neha",
+      "surname": "Gupta",
+      "age": 40,
+      "gender": "Female",
+      "specialty": "Pediatrician",
+      "image": "/Images/2.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Suresh",
+      "surname": "Mehta",
+      "age": 55,
+      "gender": "Male",
+      "specialty": "Dermatologist",
+      "image": "/Images/13.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Anita",
+      "surname": "Joshi",
+      "age": 43,
+      "gender": "Female",
+      "specialty": "Endocrinologist",
+      "image": "/Images/3.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Vikram",
+      "surname": "Chopra",
+      "age": 39,
+      "gender": "Male",
+      "specialty": "Gastroenterologist",
+      "image": "/Images/14.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Meera",
+      "surname": "Rao",
+      "age": 37,
+      "gender": "Female",
+      "specialty": "Hematologist",
+      "image": "/Images/4.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Rajesh",
+      "surname": "Singh",
+      "age": 48,
+      "gender": "Male",
+      "specialty": "Nephrologist",
+      "image": "/Images/15.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Kavita",
+      "surname": "Malhotra",
+      "age": 41,
+      "gender": "Female",
+      "specialty": "Oncologist",
+      "image": "/Images/5.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Arun",
+      "surname": "Patel",
+      "age": 46,
+      "gender": "Male",
+      "specialty": "Ophthalmologist",
+      "image": "/Images/16.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Sonia",
+      "surname": "Desai",
+      "age": 44,
+      "gender": "Female",
+      "specialty": "Psychiatrist",
+      "image": "/Images/6.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Manoj",
+      "surname": "Iyer",
+      "age": 52,
+      "gender": "Male",
+      "specialty": "Pulmonologist",
+      "image": "/Images/17.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Pooja",
+      "surname": "Bhat",
+      "age": 36,
+      "gender": "Female",
+      "specialty": "Radiologist",
+      "image": "/Images/7.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Nitin",
+      "surname": "Rajput",
+      "age": 49,
+      "gender": "Male",
+      "specialty": "Rheumatologist",
+      "image": "/Images/18.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Shalini",
+      "surname": "Naik",
+      "age": 38,
+      "gender": "Female",
+      "specialty": "Urologist",
+      "image": "/Images/8.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Harish",
+      "surname": "Menon",
+      "age": 42,
+      "gender": "Male",
+      "specialty": "General Surgeon",
+      "image": "/Images/19.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Lavanya",
+      "surname": "Pillai",
+      "age": 39,
+      "gender": "Female",
+      "specialty": "Gynecologist",
+      "image": "/Images/9.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Rakesh",
+      "surname": "Yadav",
+      "age": 47,
+      "gender": "Male",
+      "specialty": "Plastic Surgeon",
+      "image": "/Images/20.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Swati",
+      "surname": "Kulkarni",
+      "age": 35,
+      "gender": "Female",
+      "specialty": "ENT Specialist",
+      "image": "/Images/10.jpg"
+    }
+  ]
+  

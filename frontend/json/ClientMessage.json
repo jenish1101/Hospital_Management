@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "67a5a2bb17fb443a2f1c0866",
+    "firstName": "jenish",
+    "lastName": "gondaliya",
+    "email": "jgondaliya28@gmail.com",
+    "phone": 7859685958,
+    "message": "What are your working hours?",
+    "reply": "8 AM to 9 PM"
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0867",
+    "firstName": "Aarav",
+    "lastName": "Patel",
+    "email": "aarav.patel@email.com",
+    "phone": 9876543210,
+    "message": "Do you have emergency services?",
+    "reply": "Yes, we provide 24/7 emergency services."
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0868",
+    "firstName": "Riya",
+    "lastName": "Sharma",
+    "email": "riya.sharma@email.com",
+    "phone": 9123456789,
+    "message": "How can I book an appointment?",
+    "reply": "You can book an appointment via our website or call our helpline."
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0869",
+    "firstName": "jenish",
+    "lastName": "gondaliya",
+    "email": "jgondaliya28@gmail.com",
+    "phone": 9234567890,
+    "message": "Do you accept insurance?",
+    "reply": "Yes, we accept major insurance providers. Contact support for details."
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0870",
+    "firstName": "Sneha",
+    "lastName": "Desai",
+    "email": "sneha.desai@email.com",
+    "phone": 9354678901,
+    "message": "Is online consultation available?",
+    "reply": "Yes, online consultations are available via video call."
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0871",
+    "firstName": "Kunal",
+    "lastName": "Verma",
+    "email": "kunal.verma@email.com",
+    "phone": 9876541230,
+    "message": "Do you offer home visits?",
+    "reply": ""
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0872",
+    "firstName": "Priya",
+    "lastName": "Kapoor",
+    "email": "priya.kapoor@email.com",
+    "phone": 9785632140,
+    "message": "What are the payment methods available?",
+    "reply": ""
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0873",
+    "firstName": "Rahul",
+    "lastName": "Mishra",
+    "email": "rahul.mishra@email.com",
+    "phone": 9658741230,
+    "message": "Can I reschedule my appointment?",
+    "reply": ""
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0874",
+    "firstName": "Ananya",
+    "lastName": "Joshi",
+    "email": "ananya.joshi@email.com",
+    "phone": 9541236789,
+    "message": "Do you provide a refund if I cancel my booking?",
+    "reply": ""
+  },
+  {
+    "_id": "67a5a2bb17fb443a2f1c0875",
+    "firstName": "Rohan",
+    "lastName": "Singh",
+    "email": "rohan.singh@email.com",
+    "phone": 9856741203,
+    "message": "Is there a discount for first-time customers?",
+    "reply": ""
+  }
+]

@@ -1,0 +1,78 @@
+/* General Styles */
+.appointment-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f0f4f8, #e3f2fd);
+  }
+  
+  .appointment-box {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .appointment-title {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  .appointment-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    overflow-y: scroll;
+    height: 67vh;
+    scrollbar-width: thin;
+    scrollbar-color: #F4F7FC #f1f1f1;
+    transition: all 0.3sease-in-out;
+  }
+  
+  .appointment-card {
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .appointment-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .appointment-card h2 {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 1rem;
+  }
+  
+  .appointment-card p {
+    font-size: 1rem;
+    color: #555;
+    margin: 0.5rem 0;
+  }
+  
+  .appointment-card p strong {
+    font-weight: 600;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .appointment-title {
+      font-size: 2rem;
+    }
+  
+    .appointment-card {
+      width: 100%;
+    }
+  }
+  

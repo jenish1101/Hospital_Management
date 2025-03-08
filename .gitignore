@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Environment variables
+backend/config.env
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs
+*.log
+debug.log
+*.out
+*.pid
+*.seed
+
+# Cache
+.cache
+.next
+dist
+build
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
